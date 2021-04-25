@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mariadb": "^2.5.3",
+    "sequelize": "^6.6.2"
+  }
 }
